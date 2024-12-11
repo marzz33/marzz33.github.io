@@ -2,7 +2,7 @@
 
 > I am a freshman majoring in Computer Science at CSUF and expect to graduate in 2028. I really enjoyed the different topics in this class and look forward to applying them in future projects!
 >
-> This is my [Github Profile!](https://github.com/marzz33)
+>> This is my [Github Profile!](https://github.com/marzz33)
 
 ## Favorite CPSC 120 Labs
 
